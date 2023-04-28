@@ -1,0 +1,18 @@
+/*margin-[top|right|bottom|left]:<length> | <percentage> | auto*/
+div {margin-top: 10px}
+/*margin: [ <length> | <percentage> | auto ]{1,4}*/
+div {margin: 3em}div {margin: 8em 4em 15em 10em}
+/*padding-[top|right|bottom|left]: <length> | <percentage> | auto*/
+div {padding-right: 20%}
+/*padding: [ <length> | <percentage> | auto ]{1,4}*/
+div {padding: 8em 4em 15em 10em}
+/*border-[top|right|bottom|left]-width: thin | medium | thick | <length>*/
+div {border-top-width: thin}
+div {border-right-width: 6px}
+/*border-width: <width>{1,4}*/
+div {border-width: thin medium 10 20}
+/*border-[top|right|bottom|left]-color: <color>*/
+div {border-top-color: green}
+div {border-right-color: #ff66cc}
+/*border-color: <color>{1,4} | transparent*/
+div {border-color: green}

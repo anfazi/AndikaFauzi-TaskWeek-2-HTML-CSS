@@ -1,0 +1,95 @@
+.headd {
+    border-top-width: 10px;
+    border-top-color: red;
+}
+
+.headin {
+    border-top-width: 2px;
+    border-top-color: aqua;
+}
+
+.bordern {
+    border: none;
+}
+
+.clr {
+    background-color: gray;
+}
+
+.warna-footer {
+    border-bottom: 2px solid black !important;
+}
+
+.warna-border-atas-1 {
+    border-top: 2px solid red !important;
+}
+
+.warna-border-atas-2 {
+    border-top: 2px solid aqua !important;
+    border-bottom: none !important;
+}
+
+.warna-body-card-1 {
+    background-color: rgb(227, 223, 222);
+    font-weight: bold;
+}
+
+.warna-body-card-2 {
+    background-color: rgb(174, 226, 239);
+    font-weight: bold;
+}
+
+/* .warna-body-card-2 {
+    background-color: rgb(174, 226, 239) !important;
+    text-align-last: center !important;
+} */
+
+.warna-body-card-3 {
+    background-color: rgb(237, 243, 181);
+    font-weight: bold;
+}
+
+.warna-body-card-4 {
+    background-color: rgb(255, 137, 137);
+    font-weight: bold;
+}
+
+.warna-body-card-5 {
+    background-color: rgb(251, 236, 215);
+    font-weight: bold;
+}
+
+.warna-body-card-6 {
+    background-color: rgb(196, 156, 245);
+    font-weight: bold;
+}
+
+.warna-footer-card-1 {
+    background-color: rgb(141, 141, 141) !important;
+    color: white !important;
+}
+
+.warna-footer-card-2 {
+    background-color: rgb(23, 142, 172) !important;
+    color: white !important;
+}
+
+.warna-footer-card-3 {
+    background-color: rgb(188, 187, 9) !important;
+    color: white !important;
+}
+
+.warna-footer-card-4 {
+    background-color: rgb(242, 58, 58) !important;
+    color: white !important;
+}
+
+.warna-footer-card-5 {
+    background-color: rgb(216, 134, 14) !important;
+    color: white !important;
+}
+
+.warna-footer-card-6 {
+    background-color: rgb(125, 65, 212) !important;
+    color: white !important;
+}
